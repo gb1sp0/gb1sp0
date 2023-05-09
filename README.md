@@ -23,16 +23,16 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi�
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"></td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50"></td>
-    </tr>
-      <tr>
-        <td>CONTROLE DE VERSÃO</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"></td>  
       </tr>
       <tr>
         <td>SOFTWARES E PLATAFORMAS</td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"></td>    
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="60" height="60"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width="60" height="60"></td>   
+      </tr>
+      <tr>
+        <td>FERRAMENTA PARA CONTROLE DE VERSÃO</td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"></td>  
       </tr>
 </table>
 
