@@ -22,7 +22,7 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi√
         <td>BANCO DE DADOS</td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"></td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50"></td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50"></td>
       </tr>
       <tr>
         <td>SOFTWARES E PLATAFORMAS</td>
