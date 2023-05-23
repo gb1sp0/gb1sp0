@@ -1,7 +1,7 @@
 ## Olá, Gabriel aqui! 
 ### Bem vindo ao meu perfil GitHub👋
 
-Atualmente estou cursando Engenharia de Software na Universidade Federal de Goiás - UFG. Tenho interesse em desenvolvimento front-end e back-end com as tecnologias JavaScript e  Java, respectivamente. Busco aprender e evoluir um pouco a cada dia no ramo de programação.
+Atualmente estou cursando Engenharia de Software na Universidade Federal de Goiás - UFG. Tenho interesse em Desenvolvimento Web Front-end e Back-end com as tecnologias JavaScript e Java, respectivamente. Busco aprender e evoluir um pouco a cada dia no ramo de programação.
       
 ### Estou aprendendo:
 
