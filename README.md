@@ -8,37 +8,35 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi√
 
 <table border="1">
     <tr>
-        <td>FRONT-END</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"></td>
+        <td align="center">FRONT-END</td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"></td>
     </tr>
     <tr>
-        <td>BACK-END</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"></td>  
+        <td align="center">BACK-END</td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"></td>  
     </tr>
     <tr>
-        <td>BANCO DE DADOS</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"></td>
-        <td>
+        <td align="center">BANCO DE DADOS</td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"></td>
+        <td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50"></td>
       </tr>
       <tr>
-        <td>SOFTWARES E PLATAFORMAS</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"></td>    
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="60" height="60"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width="60" height="60"></td>   
+        <td align="center">SOFTWARES E PLATAFORMAS</td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"></td>    
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="60" height="60"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width="60" height="60"></td>   
       </tr>
       <tr>
-        <td>FERRAMENTA PARA CONTROLE DE VERS√ÉO</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"></td>  
+        <td align="center">FERRAMENTA PARA CONTROLE DE VERS√ÉO</td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"></td>
       </tr>
 </table>
-
-          
-                   
-
+     
+           
 ### Contato
 - github.com/gabrielgcb
 - gabriel.bispo@discente.ufg.br
@@ -47,6 +45,6 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi√
 ### Estat√≠sticas
 <div>
 <a href="https://github.com/gabrielgcb">
-<img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielgcb&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielgcb&layout=compact&langs_count=7&theme=dracula"/>
 <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielgcb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
