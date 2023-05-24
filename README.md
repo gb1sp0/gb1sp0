@@ -39,7 +39,7 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi√
            
 ### Contato
 - github.com/gabrielgcb
-- gabriel.bispo@discente.ufg.br
+- gabriel_bispo10@outlook.com.br
 
 
 ### Estat√≠sticas
