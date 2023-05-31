@@ -45,6 +45,6 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi√
 ### Estat√≠sticas
 <div>
 <a href="https://github.com/gabrielgcb">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielgcb&layout=compact&langs_count=7&theme=dracula"/>
-<img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielgcb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielgcb&layout=compact&langs_count=7&theme=light"/>
+<img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielgcb&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
 </div>
