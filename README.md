@@ -6,7 +6,7 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi√
 ### Estou aprendendo:
 
 
-<table border="1">
+<table>
     <tr>
         <td align="center">FRONT-END</td>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"></td>
