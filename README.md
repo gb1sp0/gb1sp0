@@ -15,12 +15,12 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi√
     </tr>
     <tr>
         <td align="center">BACK-END</td>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"></td>
+        <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"></td>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"></td>  
     </tr>
     <tr>
         <td align="center">BANCO DE DADOS</td>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"></td>
+        <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"></td>
         <td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50"></td>
       </tr>
@@ -32,7 +32,7 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi√
       </tr>
       <tr>
         <td align="center">FERRAMENTA PARA CONTROLE DE VERS√ÉO</td>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"></td>
+        <td colspan="3" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"></td>
       </tr>
 </table>
      
