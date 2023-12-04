@@ -20,15 +20,14 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi√
     </tr>
     <tr>
         <td align="center">BANCO DE DADOS</td>
-        <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"></td>
-        <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"></td>   
       </tr>
       <tr>
         <td align="center">SOFTWARES E PLATAFORMAS</td>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"></td>    
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="60" height="60"></td>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width="60" height="60"></td>   
       </tr>
       <tr>
         <td align="center">FERRAMENTA PARA CONTROLE DE VERS√ÉO</td>
