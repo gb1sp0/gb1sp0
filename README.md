@@ -3,7 +3,7 @@
 
 Atualmente estou cursando Engenharia de Software na Universidade Federal de Goiás - UFG. Tenho interesse em Desenvolvimento Web Front-end e Back-end com as tecnologias JavaScript e Java, respectivamente. Busco aprender e evoluir um pouco mais a cada dia no ramo de programação.
       
-### Estou aprendendo:
+### Tecnologias utilizadas:
 
 
 <table>
@@ -12,7 +12,10 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi�
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"></td>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50"></td>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"></td>
     </tr>
+    
     <tr>
         <td align="center">BACK-END</td>
         <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"></td>
