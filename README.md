@@ -15,7 +15,8 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi√
     </tr>
     <tr>
         <td align="center">BACK-END</td>
-        <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"></td>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"></td>  
     </tr>
     <tr>
