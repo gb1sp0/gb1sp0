@@ -28,7 +28,7 @@ Atualmente estou cursando Engenharia de Software na Universidade Federal de Goi√
       <tr>
         <td align="center">SOFTWARES E PLATAFORMAS</td>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"></td>    
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" height="60"></td>
+        <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  width="60" height="60"></td>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width="60" height="60"></td>
       </tr>
       <tr>
